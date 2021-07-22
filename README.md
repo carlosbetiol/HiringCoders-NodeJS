@@ -13,3 +13,7 @@
 * [npm no site devdocs.io](https://devdocs.io/npm)
 * [stackoverflow](https://stackoverflow.com)
 
+## Documentação de apoio javascript
+* [Mozilla Developer](developer.mozilla.org)
+* [w3school](https://www.w3schools.com/nodejs)
+* [stackoverflow](https://stackoverflow.com)
