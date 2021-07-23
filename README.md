@@ -25,3 +25,8 @@
 ## Documentação do sequelize ORM
 * [Documentação oficial sequelize](https://sequelize.org)
 
+## Documentação do JWT
+* [Documentação oficial do JWT](https://jwt.io)
+* [Gerar hash MD5](http://www.md5.cz)
+
+

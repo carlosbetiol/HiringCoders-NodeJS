@@ -56,3 +56,13 @@ npx sequelize db:migrate:undo:all (remove todas as tabelas ???)
 ```
 O arquivo .sequelizerc deve estar na raiz do projeto, facilmente se equivoca e coloca no src.
 
+Instalar bcrypt para tratar de senhas:
+```
+npm i bcrypt
+```
+Instalar o JWT (JSON web token)
+```
+npm i jsonwebtoken
+```
+
+
