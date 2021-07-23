@@ -14,6 +14,14 @@
 * [stackoverflow](https://stackoverflow.com)
 
 ## Documentação de apoio javascript
-* [Mozilla Developer](developer.mozilla.org)
+* [Mozilla Developer](https://developer.mozilla.org)
 * [w3school](https://www.w3schools.com/nodejs)
 * [stackoverflow](https://stackoverflow.com)
+
+## Documentação de apoio TypeScript
+* [Documentação oficial typescript](https://www.typescriptlang.org/docs)
+* [stackoverflow](https://stackoverflow.com)
+
+## Documentação do sequelize ORM
+* [Documentação oficial sequelize](https://sequelize.org)
+
