@@ -52,7 +52,7 @@ Para criar as tabelas no database de acordo com o migrations via sequelize:
 ```
 npx sequelize db:migrate (cria as tabelas)
 npx sequelize db:migrate:undo (remove as tabelas)
-npx sequelize db:migrate:undoAll (remove todas as tabelas ???)
+npx sequelize db:migrate:undo:all (remove todas as tabelas ???)
 ```
 O arquivo .sequelizerc deve estar na raiz do projeto, facilmente se equivoca e coloca no src.
 
