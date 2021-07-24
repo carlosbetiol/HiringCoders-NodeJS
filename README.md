@@ -29,4 +29,13 @@
 * [Documentação oficial do JWT](https://jwt.io)
 * [Gerar hash MD5](http://www.md5.cz)
 
+## Onde encontrar APIs públicas
+* [Any API](https://any.api.com)
+
+## Documentação de referência REST API
+* [Restful API](https://restfulapi.net)
+* [API Boas Práticas (artigo)](https://swagger/resources/articles/best-practices-in-api-design/)
+* [Mozilla HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+* [Swagger Docs](https://swagger.io/docs/)
+
 

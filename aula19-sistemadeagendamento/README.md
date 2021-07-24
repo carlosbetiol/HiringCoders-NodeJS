@@ -6,7 +6,7 @@ docker run --name database -e ALLOW_EMPTY_PASSWORD=no -e POSTGRESQL_PASSWORD=doc
 ```
 Instalar o express, framework 
 ```
-npm i express
+npm i express --save
 ```
 Instalar o pacote de desenvolvimento sucrase
 ```
