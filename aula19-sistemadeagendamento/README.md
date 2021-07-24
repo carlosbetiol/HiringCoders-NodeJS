@@ -80,4 +80,14 @@ Cada vez que criar uma migration, para roda-la fazendo com que persista no db:
 ```
 npx sequelize db:migrate 
 ```
+Instalar date-fns para tratamento com datas:
+```
+npm i date-fns
+```
+Para efeito de aprendizado foi utilizado o mongodb no ["MongoDB Atlas"](https://www.mongodb.com/cloud/atlas/lp/try2?utm_source=google&utm_campaign=gs_americas_brazil_search_core_brand_atlas_desktop&utm_term=atlas%20mongo%20db&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624308&gclid=Cj0KCQjw9O6HBhCrARIsADx5qCREUxII6MblocNcQ4rIuGQsZ154uXXfPoLPabK7X9FGI4FtF22sGXEaAm_-EALw_wcB)
 
+Instalar o conector para mongoDB:
+```
+npm i mongoose
+```
+Utilizado o [MongoDB Compass](https://www.mongodb.com/try/download/compass) como cliente mongodb.
