@@ -18,14 +18,12 @@ export default async (req, res, next) => {
 
         req.userId = decoded.id;
 
-        // next(); essa linha gerou erro e nao tem no video removendo-a, solucao encontrada no forum
+        next();
 
     } catch (error) {
         return res.status(401).json({
             message: 'Token inválido'
         })
     }
-
-    next();
 
 }

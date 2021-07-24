@@ -64,5 +64,20 @@ Instalar o JWT (JSON web token)
 ```
 npm i jsonwebtoken
 ```
-
+Instalar a lib para realizar validações:
+```
+npm install yup
+```
+Instalar o multer para upload de arquivos:
+```
+npm i multer
+```
+Criar migrations para files (upload de imagem):
+```
+npx sequelize migration:create --name=create-files
+```
+Cada vez que criar uma migration, para roda-la fazendo com que persista no db:
+```
+npx sequelize db:migrate 
+```
 
